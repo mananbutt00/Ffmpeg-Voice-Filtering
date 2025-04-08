@@ -1,3 +1,20 @@
+## 📱 App Preview
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/7b64ac5c-2186-4417-af80-4d442dbd1d06" width="300"/>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/f1a93bcd-7b3e-4839-b8a3-4c48d7fbfaed" width="300"/>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/5e97f3c2-0a07-4881-930b-d4488540769a" width="300"/>
+    </td>
+  </tr>
+</table>
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
